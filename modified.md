@@ -8,3 +8,4 @@ Master
 Feature
 -------
 * Feature branch added this line.
+* Feature added this line, too.
