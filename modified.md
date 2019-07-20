@@ -3,7 +3,7 @@
 
 Master
 -----
-
+* Master added this line.
 
 Feature
 -------

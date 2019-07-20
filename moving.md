@@ -4,7 +4,7 @@ making changes to master. Later, the branches will merge.
 
 Master
 ------
-
+* Master added this line when the file was at its initial location in the directory structure.
 
 
 Feature
